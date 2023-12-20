@@ -1,0 +1,7 @@
+﻿  injector.cpp
+D:\Users\Downloads\project\st\Folder_online\learn\frida\4\injector\injector\injector.cpp(277,114): warning C4244: “=”: 从“DWORD_PTR”转换到“__unaligned DWORD”，可能丢失数据
+D:\Users\Downloads\project\st\Folder_online\learn\frida\4\injector\injector\injector.cpp(279,102): warning C4244: “=”: 从“DWORD_PTR”转换到“__unaligned DWORD”，可能丢失数据
+D:\Users\Downloads\project\st\Folder_online\learn\frida\4\injector\injector\injector.cpp(280,93): warning C4244: “=”: 从“DWORD_PTR”转换到“__unaligned DWORD”，可能丢失数据
+  injector.vcxproj -> D:\Users\Downloads\project\st\Folder_online\learn\frida\4\injector\x64\Debug\injector.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
